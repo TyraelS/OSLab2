@@ -1,3 +1,3 @@
 # OSLab2
-![](https://github.com/TyraelS/OSLab2/edit/master/Code.png)
-![](https://github.com/TyraelS/OSLab2/edit/master/Result.png)
+![code](https://github.com/TyraelS/OSLab2/edit/master/Code.png)
+![result](https://github.com/TyraelS/OSLab2/edit/master/Result.png)
